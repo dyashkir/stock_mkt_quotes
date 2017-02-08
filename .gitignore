@@ -2,3 +2,5 @@
 *.xlsx
 .idea/
 __pycache__/
+
+stock/
